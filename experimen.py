@@ -58,7 +58,6 @@ class MedicalStoreApp:
         except sqlct.Error as e:
             print("Error:", e)
 
-    # Modify other methods accordingly...
 
     # In the __name__ == "__main__" block, just create the app instance and run the main loop
 
