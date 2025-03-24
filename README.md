@@ -10,7 +10,7 @@
 
 2) Set Up MySQL Database
 
-   Open MySQL Workbench or phpMyAdmin or Command Line.
+   Open MySQL Workbench or phpMyAdmin (XAMPP) or Command Line.
 
    Run the following SQL query to create a database:
 
