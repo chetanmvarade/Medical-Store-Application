@@ -22,4 +22,4 @@
 
    Create necessary tables automatically (handled in create_db() function).
 
-3) Run the Python Program
+3) Run this Python Program
