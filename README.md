@@ -1,4 +1,4 @@
-** Follow these steps to run your Medical Store Management System project successfully.**
+**Follow these steps to run your Medical Store Management System project successfully.**
 
 1) Install Required Dependencies
 
