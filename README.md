@@ -1,5 +1,4 @@
-# Medical-Store-Application
-Follow these steps to run your Medical Store Management System project successfully.**
+# Follow these steps to run your Medical Store Management System project successfully.
 1) Install Required Dependencies
 
    Make sure you have Python installed (Phycharm).
